@@ -16,16 +16,15 @@ I am a motivated Textile Engineering student with a strong academic foundation a
 
 **Bachelor of Science in Textile Engineering**  
 *Northern University Bangladesh*  
-*   **CGPA:** 3.42 / 4.00 (As of 6th Semester)
 *   **Expected Graduation:** September 2027
 
 **Higher Secondary Certificate (HSC)**  
 *Mahajanhat Fazlur Rahaman School & College*  
-*   Group: Science | GPA: 4.83 | Year: 2022
+*   Group: Science | Year: 2022
 
 **Secondary School Certificate (SSC)**  
 *Zhulonpol B.M High School*  
-*   Group: Science | GPA: 4.39 | Year: 2020
+*   Group: Science | Year: 2020
 
 ---
 
