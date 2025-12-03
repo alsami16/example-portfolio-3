@@ -1,80 +1,74 @@
-# 📊 Data Analyst Portfolio – [Your Name]
+# Al Sami Chowdhury
+### Textile Engineering Student | Leadership & Creative Enthusiast
 
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
-
----
-
-## 👤 Profile Summary
-
-- 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
-- Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
-- Strong knowledge of statistical analysis and forecasting techniques
-- Experience working with cross-functional teams in agile environments
+📍 **Dhaka, Bangladesh**  
+📧 [alsamichy2004@gmail.com](mailto:alsamichy2004@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/al-sami-chowdhury-93167b323/)
 
 ---
 
-## 🧠 Skills
+## 👨‍💻 About Me
+I am a motivated Textile Engineering student with a strong academic foundation and hands-on experience in club leadership. I am eager to apply my skills in material science and teamwork to an entry-level role where I can contribute to product quality and innovation.
 
-**Languages:** Python, R, SQL  
-**Tools & Visualization:** Excel, Looker, Tableau, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, BigQuery  
-**Cloud Platforms:** Google Cloud Platform (GCP)
-
----
-
-## 💼 Professional Experience
-
-**[Company Name], [Location] — [Position]**  
-*Time Period*
-
-- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
-- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
-- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
-- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
-- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
-
----
-
-## 📈 Featured Project
-
-### 🔍 LinkedIn Job Trends Analyzer  
-*Time Period*
-
-- Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
-- Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
-- Project impacted 200+ students, with 37 successfully landing jobs using insights
-
-![LinkedIn Dashboard](/images/image1.png)
 ---
 
 ## 🎓 Education
 
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
-- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
+**Bachelor of Science in Textile Engineering**  
+*Northern University Bangladesh*  
+*   **CGPA:** 3.42 / 4.00 (As of 6th Semester)
+*   **Expected Graduation:** September 2027
+
+**Higher Secondary Certificate (HSC)**  
+*Mahajanhat Fazlur Rahaman School & College*  
+*   Group: Science | GPA: 4.83 | Year: 2022
+
+**Secondary School Certificate (SSC)**  
+*Zhulonpol B.M High School*  
+*   Group: Science | GPA: 4.39 | Year: 2020
 
 ---
 
-## 📜 Certifications & Awards
+## 🚀 Leadership & Experience
 
-- Google Associate Data Practitioner Certificate  
-- Best Student Award – Classification of Healthcare Documents  
-- 4th Place – Data Analytics Hackathon (University-level)
+**Media & Communication Secretary** | *NUB Textile Club*  
+*   Managed club communications and designed promotional materials to increase member engagement.
 
----
+**Sub-Executive Member** | *NUB Film & Photography Club*  
+*   Assisted in organizing club workshops and photography events for members.
 
-## ❤️ Volunteer Experience
+**Campus Team Member** | *Excellence Bangladesh*  
+*   Collaborated with a team to promote campus-wide initiatives and events.
 
-- Conducted weekend programming workshops for underprivileged high school students
-- Coordinated logistics for fundraising race events supporting children’s education
-
----
-
-## 📬 Let’s Connect!
-
-- 📧 Email: [Your Email]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
-- 💻 GitHub: [GitHub Portfolio]
+**General Member** | *Textile Engineers Society*  
+*   Actively participated in learning opportunities and networking events hosted by the society.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
+## 🛠 Skills
+
+**Technical Skills**  
+*   Microsoft Word (Proficient)
+*   Microsoft Excel (Basic Knowledge)
+
+**Soft Skills**  
+*   Presentation
+*   Teamwork & Collaboration
+*   Leadership
+
+**Creative Skills**  
+*   Photography
+
+---
+
+## 🌏 Languages
+*   **Bengali:** Native
+*   **English:** Professional Working Proficiency
+*   **Hindi:** Basic Communication
+
+---
+
+## 📋 Personal Details
+*   **Date of Birth:** 16 August 2005
+*   **Nationality:** Bangladeshi
+*   **Permanent Address:** Chattogram, Bangladesh
